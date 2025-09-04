@@ -8,7 +8,7 @@ It provides just the essential features you need — no clutter.
 ## Features
 - **Toggle Key** — start/stop auto-clicking with a hotkey.
 - **Hold Key** — press and hold a key to enable clicking.
-- **Enable Hold Mode** — switch between toggle and hold behavior.
+- **Enable Hold Mode** — Enable hold behavior.
 - **Click Interval (ms)** — adjust the click speed.
 
 ## License
